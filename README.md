@@ -33,4 +33,4 @@ Numpy
 
 Image training set contain 2400 images for each category. I split those into 80% train and 20% means test Split each class images into 2000 for train and 400 for test.
 
-The entire Code for the project can be found at this [repository](https://github.com/sivatejaat/CNN-classification-cat-dog)
+The entire Code for the project can be found at this [repository](https://github.com/sivatejaat/CNN-classification-cat-dog/blob/main/cat%20dog%20final.ipynb)
